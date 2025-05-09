@@ -1,6 +1,6 @@
 ---
 global:
-  pattern: multicloud-gitops
+  pattern: mcdso
   options:
     useCSV: false
     syncPolicy: Automatic
